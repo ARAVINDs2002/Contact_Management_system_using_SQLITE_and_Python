@@ -3,7 +3,7 @@ Contact Management System Documentation
 
 ->Overview
 
-This project implements a simple contact management system using SQLite as the backend database. It allows users to perform various operations such as adding new contacts, deleting contacts, updating contact information, and checking if a contact exists by name. This system is designed to be simple and make use of command line as UI.
+This project implements a simple contact management system using SQLite as the backend database. It allows users to perform various operations such as adding new contacts, deleting contacts, updating contact information, and checking if a contact exists by name ,all done with dictionary in python. This system is designed to be simple and make use of command line as UI.
 --------------------------------------------------------------------------------------------------------------------------
 
 ->Database Setup
