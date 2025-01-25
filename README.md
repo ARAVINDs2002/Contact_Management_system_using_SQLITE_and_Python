@@ -37,20 +37,20 @@ Checks if a contact with a given name exists, and if so, displays the phone numb
 👉Exit
 Closes the database connection and exits the program.
 
-How to Use
+# How to Use
 
-# 👉Run the Script
+👉Run the Script
 Execute the Python script to start the contact management system.
 
 Select an Option
 
 A menu will appear with different operations. Enter the corresponding number for the desired operation.
 
-# 👉Perform the Operation
+👉Perform the Operation
 
 Depending on the chosen option, follow the prompts to enter information or confirm actions.
 
-# 👉Exit
+👉Exit
 To exit the program, select option 7. This will close the database connection safely.
 
 
